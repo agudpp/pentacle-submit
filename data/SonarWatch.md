@@ -1,0 +1,25 @@
+name:SonarWatch
+description:Track all your assets in one place. The most accurate tracking tool on Solana with most of the protocols supported and thousands of pools and farms tracked. Display your NFT collection and their value, look up for the top gainers of the eco-system, manage all your addresses at once.
+token_image_url:https://s2.coinmarketcap.com/static/img/coins/64x64/14627.png
+ticker:SONAR
+website_url:https://sonar.watch
+webapp_url:
+contract_url:https://explorer.solana.com/address/sonarX4VtVkQemriJeLm6CKeW3GDMyiBnnAEMw1MRAE
+coingecko_url:https://www.coingecko.com/en/coins/sonarwatch
+defillama_url:
+rekt_url:
+dune_url:
+whitepaper_url:https://sonar.watch/docs/Sonar_Litepaper.pdf
+github_url:https://github.com/sonar-watch/
+docs_url:https://docs.sonar.watch/
+twitter_url:https://twitter.com/Sonarwatch
+discord_url:discord.gg/gG4DvM2JGw
+telegram_url:https://t.me/Sonar_Watch_Announcements_TG
+medium_url:https://sonarwatch.medium.com/
+video_url:
+chain1:
+chain2:
+tag1:defi-tool
+tag2:analytics
+tag3:portfolio
+tag4:defi
