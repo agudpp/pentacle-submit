@@ -66,6 +66,7 @@ infrastructure
 insight
 insurance
 jobs
+launchpad
 lending
 leverage
 liquidity
