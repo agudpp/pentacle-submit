@@ -58,7 +58,7 @@ If you believe a tag is missing or there is a need to add greater than 4, includ
 ```
 aggregator
 amm
-*analytics*
+**analytics**
 arbitrage
 asset-management
 bridge
@@ -67,14 +67,14 @@ cex
 dao
 dapp
 decentralised-exchange
-*defi*
+**defi**
 defi-tool
 dev-learning
 dev-tools
-*developer*
+**developer**
 dex
 divergence-loss
-*education*
+**education**
 ethereum
 event
 fiat-onramp
@@ -85,8 +85,8 @@ identity
 index
 infrastructure
 insight
-*insurance*
-*jobs*
+**insurance**
+**jobs**
 layer-2
 lending
 leverage
@@ -106,7 +106,7 @@ portfolio
 project
 protocol 
 risk-management
-*security*
+**security**
 smart-contract
 solana
 stablecoin
@@ -116,7 +116,7 @@ trading
 transaction
 wallet
 xyk
-*yield*
+**yield**
 ```
 
 
