@@ -52,8 +52,9 @@ yield
 
 Please include another 1-3 tags after you have chosen your category tags
 
-If you believe a tag is missing or there is a need to add greater than 4, include it when creating the PR.
+If you believe a tag is missing or there is a need to add greater than 4, include it when creating the PR
 
+```
 aggregator
 amm
 **analytics**
@@ -115,7 +116,7 @@ transaction
 wallet
 xyk
 **yield**
-
+```
 
 ## Anything Else?
 
