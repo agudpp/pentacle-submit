@@ -1,11 +1,11 @@
 ```
 name:CoinScouts 
-description:CoinScouts is the world's most powerful crypto database. It's a community-driven one-stop platform for finding, analyzing, and discussing cryptocurrencies. Using special filters, you can DYOR with just a few clicks! 
+description:CoinScouts is a crypto database. It's a community-driven one-stop platform for finding, analyzing, and discussing cryptocurrencies. Using their filters, you can DYOR with just a few clicks. 
 token_image_url:https://coinscouts.io/images/coinscouts_logo.png
 ticker:
 website_url:https://coinscouts.io
 webapp_url:
-contract_url:https://coinscouts.io/contact
+contract_url:
 coingecko_url:
 defillama_url:
 rekt_url:
