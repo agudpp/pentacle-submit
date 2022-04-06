@@ -34,7 +34,7 @@ tag4:
 
 ### Category tags
 
-Please include 1-2 primary categories for your project
+Please include 1-2 category tags for your project (tag1, tag2)
 
 ```
 analytics
@@ -50,7 +50,9 @@ yield
 
 ### Tags
 
-Please choose up to 4 tags, if you believe a tag is missing or there is a need to add greater than 4, include it when creating the PR.
+Please include another 1-3 tags after you have chosen your category tags
+
+If you believe a tag is missing or there is a need to add greater than 4, include it when creating the PR.
 
 ```
 aggregator
