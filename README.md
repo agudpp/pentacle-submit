@@ -32,9 +32,25 @@ tag3:
 tag4:
 ```
 
+### Category tags
+
+Please include 1-2 primary categories for your project
+
+```
+analytics
+defi
+developer
+exchange
+education
+insurance
+jobs
+nft
+yield
+```
+
 ### Tags
 
-Please choose up to 4 of the most appropriate tags, if you believe a tag is missing or there is a need to add greater than 4, include it when creating the PR.
+Please choose up to 4 tags, if you believe a tag is missing or there is a need to add greater than 4, include it when creating the PR.
 
 ```
 aggregator
@@ -103,4 +119,4 @@ yield
 
 ## Anything Else?
 
-Tweet at [Luke](https://twitter.com/0x4C756B65) or [Pentacle](https://twitter.com/pentaclexyz) for assistance!
+Tweet at [Luke](https://twitter.com/0x4C756B65) or [pentacle](https://twitter.com/pentcle) for assistance!
