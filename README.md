@@ -2,7 +2,9 @@
 
 If your project is not already present on [pentacle](https://pentacle.xyz) please create a PR including as much of the following as possible
 
-### Example Format
+### Please complete as much of this as exists
+
+it will speed up addition to the database
 
 ```
 name: 
