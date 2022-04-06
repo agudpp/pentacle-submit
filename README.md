@@ -36,6 +36,7 @@ tag4:
 
 Please include 1-2 category tags for your project (tag1, tag2)
 
+```
 analytics
 defi
 developer
@@ -46,7 +47,7 @@ jobs
 nft
 security
 yield
-
+```
 
 ### Tags
 
